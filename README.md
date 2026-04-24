@@ -2,6 +2,8 @@
 
 Built a sales performance dashboard using the Microsoft Sales & Returns sample dataset.
 
+![Dashboard Preview](SalesDashboard.png)
+
 ## Visuals
 - KPI cards (Total Revenue, Total Units, Profit Margin %)
 - Revenue by category bar chart
